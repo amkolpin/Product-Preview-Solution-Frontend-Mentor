@@ -1,25 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
 
-/* ### Primary
 
-- Dark cyan: hsl(158, 36%, 37%)
-- Cream: hsl(30, 38%, 92%)
-
-### Neutral
-
-- Very dark blue: hsl(212, 21%, 14%)
-- Dark grayish blue: hsl(228, 12%, 48%)
-- White: hsl(0, 0%, 100%)
-
-## Typography
-
-### Body Copy
-
-- Font size (paragraph): 14px
-font-family: 'Fraunces', serif;
-font-family: 'Montserrat', sans-serif;
-
-*/
 *{
     margin: 0;
     padding: 0;
@@ -144,7 +125,7 @@ p{
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
-    .container article:first-child img{
+.container article:first-child img{
         border-radius: 1rem 0 0 1rem ;
 } 
 .container article:last-child{
