@@ -29,7 +29,7 @@ Users should be able to:
 
 ![](./screenshot.jpg
 
-- Live Site URL: [](https://amkolpin.github.io/Product-Preview-Solution-Frontend-Mentor/)
+- Live Site URL: [Live Site](https://amkolpin.github.io/Product-Preview-Solution-Frontend-Mentor/)
 
 ## My process
 
